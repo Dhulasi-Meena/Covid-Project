@@ -102,3 +102,5 @@ where continent is not null
 )
 select *,(Rolling_People_Vaccinated/population)*100 as PercentofVaccinated
 from popvsvac
+
+
